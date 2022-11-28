@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^8.4.0
+  syncfusion_flutter_gauges: ^20.3.57
 
 dev_dependencies:
   flutter_test:
@@ -18,3 +20,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - images/
+    - images/normal/
+    - images/overweight/
