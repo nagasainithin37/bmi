@@ -255,7 +255,7 @@ class _NewResState extends State<NewRes> {
             Expanded(
               child: Align(
                 alignment: FractionalOffset.bottomCenter,
-                child: BottomButton('Re-Calculate', () {
+                child: BottomButton('Re-Calculat', () {
                   Navigator.pop(context);
                 }),
               ),
